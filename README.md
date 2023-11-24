@@ -64,5 +64,35 @@ Occupation: Stay-at-home mom
 Interests: Family-friendly travel, kid-friendly activities, family accommodations
 Background: Fiona is a mom of two young children who loves traveling with her family. She looks for destinations that offer a range of family-friendly activities and accommodations. Fiona values travel blogs that provide recommendations for attractions suitable for kids, tips for traveling with children, and advice on finding family-friendly accommodations. She wants to ensure her family has a memorable and enjoyable travel experience while keeping everyone's needs in mind.
 
+*********
 
+#### Functionality/ Features
 
+The Full stack application will be have a variety of features specifically for two groups. The User and the admin staff managing the application. Features will be as follow:
+
+**All Users:**
+The application will be protected and will require all users to login via authentication which will assign them the appropiate permissions such as user and admin. Users will be prompted to create an acount through the web application while admin users will need their accounts established by the assign data manager. 
+- Login
+- Logout
+
+**Users**
+When authenticated, users are allowed to access their personalised Dashboard that will feautrem recommended blogs and experiences based on their preferences and interests. 
+- Create an Account 
+- Display their content
+- Edit their content
+- Delete their content
+- View other users' content
+- Like/Unlike users' content
+- Comment on users' content
+- Follow/Unfollow users
+
+**Admin** 
+Once the Admin has been provided with credentials that grant them permissions and access to manage content as required for their role 
+- Create/Delete/Edit/View Users
+- Create/Delete/Edit/View Users' Content
+- Manage User permissions
+- Moderate content
+
+****************
+#### Planning (Sprints)
+At the beginning of the prject we had a briefing to delegate tasks and design a rough idea of how the app works. 
