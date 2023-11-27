@@ -39,28 +39,42 @@ This application is targeting Young adults up to Parents with different reasons 
 
 #### Iterated Personas of Target Users
 
-Persona 1: Adventurous Alan
+**Persona 1: Adventurous Alan**
+
 Age: 33
+
 Occupation: Software Engineer
+
 Interests: Traveling, outdoor activities, photography
+
 Background: Alan is a passionate traveler who loves exploring new places and documenting his experiences through photos. He enjoys trying out adventurous activities like hiking, scuba diving, and skydiving. As a software engineer, he appreciates well-designed and user-friendly websites and apps. Alan is always on the lookout for travel blogs that provide detailed itineraries, tips, and stunning visuals to inspire his next adventure.
 
-Persona 2: Wanderlust Wendy
+**Persona 2: Wanderlust Wendy**
+
 Age: 25
+
 Occupation: Digital Nomad
+
 Interests: Traveling, blogging, remote work
+
 Background: Wendy is a digital nomad who works remotely while traveling the world. She enjoys immersing herself in different cultures, trying local cuisines, and meeting new people. Wendy is passionate about sharing her experiences through her travel blog, and she is always in search of new destinations and hidden gems to write about. She values web applications that offer a seamless user experience and provide valuable information about travel destinations, accommodations, and transportation.
 
-Persona 3: Budget Traveler Ben
+**Persona 3: Budget Traveler Ben**
+
 Age: 18
+
 Occupation: Student
+
 Interests: Traveling on a budget, backpacking, local experiences
+
 Background: Ben is a student who loves traveling during his breaks. He often travels on a tight budget and looks for affordable accommodations, transportation options, and local experiences. He enjoys exploring off-the-beaten-path destinations and interacting with locals to get a true taste of the culture. Ben relies on travel blogs to find tips and tricks for budget travel, including suggestions for cheap eats, free attractions, and affordable accommodations.
 
-Persona 4: Family-oriented Fiona
+**Persona 4: Family-oriented Fiona**
 
 Age: 45
+
 Occupation: Stay-at-home mom
+
 Interests: Family-friendly travel, kid-friendly activities, family accommodations
 Background: Fiona is a mom of two young children who loves traveling with her family. She looks for destinations that offer a range of family-friendly activities and accommodations. Fiona values travel blogs that provide recommendations for attractions suitable for kids, tips for traveling with children, and advice on finding family-friendly accommodations. She wants to ensure her family has a memorable and enjoyable travel experience while keeping everyone's needs in mind.
 
@@ -95,4 +109,57 @@ Once the Admin has been provided with credentials that grant them permissions an
 
 ****************
 #### Planning (Sprints)
-At the beginning of the prject we had a briefing to delegate tasks and design a rough idea of how the app works. 
+
+At the beginning of the project we had a briefing to delegate tasks and design a rough idea of how the app works. We then used Trello as a workload planner to organise and prioritise taks. We were responsible for ensuring that we completed appointed tasks in a timely manner and ensured we added notes to encourage communication during our regular meetings. We will hold regular status meetings through discord to communicate any issues and challenges we encounter during this project. 
+
+With planning initially we plan to have the sprint organised in weekly sprints 
+
+**Week 1**
+- Implementation and establishment of Front-end and Back-end
+- Establish login functionality for Users and Admin
+- Integrate Amazon S3 functionality
+
+**Week 2**
+- Program CRUD functionality for both Users and Admin
+- Integrate Google API functionality
+- Integrate Personalised Dashboard for users 
+
+**Week 3**
+- Testing of code
+- Front end cleaning up and testing for responsiveness
+- Final touches before launch
+
+Currently we have the Trello Screenshots for plannaing stage of MERN stack web application (see below)
+
+<img src="wk2.png" alt="Beginning Trello" />
+
+<img src="wk 3.jpg" alt="Ending Trello" />
+
+***************
+
+#### Workflow
+
+We decided to work as a team within a Github Organisation and utlise forking to maintain integrity of version control. This will allow us to monitor changes made by team members effectively. We will be checking each of the pull requests to the main branch. We believe this will be the best approach to working in an agile project environment with team members working across on different aspects of the web application. Most tasks will be completed alone by each team member so this branching and pull requests will allow other team member to keep track of other's work. 
+
+#### Dataflow Diagram
+
+<img src="Data-Flow-Diagram.jpg" alt="Data Flow Diagram" />
+
+****************
+
+#### Application Architecture Diagram
+
+<img src="Application-Architecture-Diagram.jpg" alt="alt text" title="Application Architecture Diagram" />
+
+****************
+
+
+## Technologies Used
+
+- MongoDB: NoSQL database for storing user and travel log data.
+- Express: Node.js framework for building the server-side API.
+- React: Frontend library for building the user interface.
+- Node.js: JavaScript runtime environment for server-side development.
+- Redux: State management library for managing application state.
+- Axios: HTTP client for making API requests.
+- Other dependencies: Refer to the `package.json` files in the `server` and `client` directories for a full list of dependencies used.
