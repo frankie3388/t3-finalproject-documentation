@@ -170,3 +170,30 @@ A mobile first approach was implemented when designing the wireframes for this a
 
 
 ![screenshot of mobile create and edit post pages wireframes](./docs/wireframe-images/mobile-create-edit-post.png)  
+
+
+#### Tablet Application Pages  
+
+Link to Travelling Diary wireframe in Figma: [Travelling Diary wireframe](https://www.figma.com/file/2SzEZyh3gIW4xpwTy1KAYM/Traveling-Diary?type=design&node-id=0-1&mode=design&t=jx4ebmZ2z4hPXJbJ-0).  
+
+* All of the tablet pages are essentially the same as the mobile view pages, except the top of the pages are slightly different in that there is the name of the applcation at the top of the pages as well as the navigation bar. Also, the blogs list and dashboard pages contain an extra set of blogs to fill up the space of the wider screen size. We tried to keep the layout similar to the mobile view as this would make it easier to create a responsive website with the use of certain components in React-Bootstrap library, like cards and grid system.  
+
+![screenshot of tablet pages (login, create account, blog list, blog page) wireframes](./docs/wireframe-images/tablet-pages1.png)  
+
+![screenshot of tablet pages (blog page, blog location, blog username, user profile) wireframes](./docs/wireframe-images/tablet-pages2.png)  
+
+![screenshot of tablet pages (user profile, dashboard, create and edit post) wireframes](./docs/wireframe-images/tablet-pages3.png)  
+
+#### Desktop Application Pages  
+
+Link to Travelling Diary wireframe in Figma: [Travelling Diary wireframe](https://www.figma.com/file/2SzEZyh3gIW4xpwTy1KAYM/Traveling-Diary?type=design&node-id=0-1&mode=design&t=jx4ebmZ2z4hPXJbJ-0).  
+
+* The destop pages are very similar to the tablet pages, except the navigation bar is set at the top of the page, along with the name of the application and search bar. The nav bar and search bar will always be visible when scrolling down the page to allow the user to easily access other features of the application. The blog page layout is slightly different to the tablet and mobile views, in that the details of the blog and pictures are placed beside one another due to the wider screen size. Reponsiveness was taken into account when designing the layout of the application to allow ease of coding
+
+![screenshot of desktop pages (login, create account, blog list) wireframes](./docs/wireframe-images/desktop-pages1.png)  
+
+![screenshot of desktop pages (blog pages, location) wireframes](./docs/wireframe-images/desktop-pages2.png)  
+
+![screenshot of desktop pages (username, user profile) wireframes](./docs/wireframe-images/desktop-pages3.png)  
+
+![screenshot of desktop pages (dashboard, create and edit post) wireframes](./docs/wireframe-images/desktop-pages4.png)
