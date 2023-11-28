@@ -250,4 +250,3 @@ Link to Travelling Diary wireframe in Figma: [Travelling Diary wireframe](https:
 - Node.js: JavaScript runtime environment for server-side development.
 - Redux: State management library for managing application state.
 - Axios: HTTP client for making API requests.
-- Other dependencies: Refer to the `package.json` files in the `server` and `client` directories for a full list of dependencies used.
