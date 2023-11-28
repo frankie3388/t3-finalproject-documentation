@@ -239,7 +239,8 @@ Link to Travelling Diary wireframe in Figma: [Travelling Diary wireframe](https:
 ![screenshot of desktop pages (username, user profile) wireframes](./docs/wireframe-images/desktop-pages3.png)  
 
 ![screenshot of desktop pages (dashboard, create and edit post) wireframes](./docs/wireframe-images/desktop-pages4.png)
-=======
+
+*************
 
 ## Technologies Used
 
