@@ -251,3 +251,5 @@ Link to Travelling Diary wireframe in Figma: [Travelling Diary wireframe](https:
 - Redux: State management library for managing application state.
 - Axios: HTTP client for making API requests.
 - Other dependencies: Refer to the `package.json` files in the `server` and `client` directories for a full list of dependencies used.
+- Amazon S3: Image hosting service for storing image files and sourced via URL
+- Google API: API with geographical information for the app
