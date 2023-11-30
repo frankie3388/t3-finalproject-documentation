@@ -7,7 +7,7 @@
 
 ****************
 
-### Purpose
+## Purpose
 
 Our Client wanted to establish a full stack web application, the web app will serve 2 main purposes. First purpose is to allow users to log and share their experiences from their travels. Second purpose is allow client to login and manage the content of the posts. 
 
@@ -15,13 +15,13 @@ The client wanted to establish this platform to create a niche and target a cons
 
 *********
 
-#### Target Audience
+### Target Audience
 
 This application is targeting Young adults up to Parents with different reasons and budgets for travel. 
 
-#### User Stories
+### User Stories
 
-##### Market Research
+#### Market Research
 
 1. As a user, I want to be able to view detailed information about each travel destination, including photos, descriptions, and comments, so that I can make informed decisions about where to go.
 
@@ -37,7 +37,7 @@ This application is targeting Young adults up to Parents with different reasons 
 
 7‌. As a developer, I want to implement a secure authentication system to protect user accounts and sensitive data.
 
-#### Iterated Personas of Target Users
+### Iterated Personas of Target Users
 
 **Persona 1: Adventurous Alan**
 
@@ -80,7 +80,7 @@ Background: Fiona is a mom of two young children who loves traveling with her fa
 
 *********
 
-#### Functionality/ Features
+### Functionality/ Features
 
 The Full stack application will be have a variety of features specifically for two groups. The User and the admin staff managing the application. Features will be as follow:
 
@@ -108,7 +108,7 @@ Once the Admin has been provided with credentials that grant them permissions an
 - Moderate content
 
 ****************
-#### Planning (Sprints)
+### Planning (Sprints)
 
 At the beginning of the project we had a briefing to delegate tasks and design a rough idea of how the app works. We then used Trello as a workload planner to organise and prioritise taks. We were responsible for ensuring that we completed appointed tasks in a timely manner and ensured we added notes to encourage communication during our regular meetings. We will hold regular status meetings through discord to communicate any issues and challenges we encounter during this project. 
 
@@ -137,23 +137,23 @@ Currently we have the Trello Screenshots for plannaing stage of MERN stack web a
 
 ***************
 
-#### Workflow
+### Workflow
 
 We decided to work as a team within a Github Organisation and utlise forking to maintain integrity of version control. This will allow us to monitor changes made by team members effectively. We will be checking each of the pull requests to the main branch. We believe this will be the best approach to working in an agile project environment with team members working across on different aspects of the web application. Most tasks will be completed alone by each team member so this branching and pull requests will allow other team member to keep track of other's work. 
 
-#### Dataflow Diagram
+### Dataflow Diagram
 
 <img src="Data-Flow-Diagram.jpg" alt="Data Flow Diagram" />
 
 ****************
 
-#### Application Architecture Diagram
+### Application Architecture Diagram
 
 <img src="Application-Architecture-Diagram.jpg" alt="alt text" title="Application Architecture Diagram" />
 
 ****************
 
-### Wireframes  
+## Wireframes  
 
 * Link to Travelling Diary wireframe in Figma: [Travelling Diary wireframe](https://www.figma.com/file/2SzEZyh3gIW4xpwTy1KAYM/Traveling-Diary?type=design&node-id=0-1&mode=design&t=jx4ebmZ2z4hPXJbJ-0).  
 
@@ -161,21 +161,21 @@ In the link above it clearly illustrates the relationships between each page of 
 
 A mobile first approach was implemented when designing the wireframes for this application. We wanted a light-coloured themed interface for the application that was easy to use. Based on this criteria, we chose to use the colours white, black and two different shades of orange. 
 
-#### Mobile Login Page 
+### Mobile Login Page 
 
 * It can be seen in the image below that the login page and create account page are essentially the same except for some of the wording. Initially, these two pages did not look like this, as we didn't have a logo designed and there was an image in the background. Upon further development, the background image was removed and a logo was created. The logo was placed near the top of the page as this introduces our brand to the user. This is then followed by the login heading and the login details, which are position in the center of the page. Two orange bars were added to the top and bottom of the page to give it the light orange coloured theme design.  
 
 ![screenshot of mobile login and create account page wireframe](./docs/wireframe-images/mobile-login-create.png)  
 
 
-#### Mobile Blogs List Page  
+### Mobile Blogs List Page  
 
 * With the blogs list page I positioned the search bar at the top of the page, this lets the user search for more specific blogs based on a location or username. The searchbar will always be visible when scrolling up or down. The blogs list page just displays a list of random blogs (most recent posts). After the search bar a heading of "Blogs List" is displayed to indicate the list of blogs below. The blogs are displayed as cards with an image as well as minimal information like username, title of blog, location / country. The information is overlapping with the image as I wanted to save some space on the page. A gray background is overlayed on top of the image for better visiblity of the text. Based on the layout of the cards, we can use the React-Bootstrap library to create the layout (cards component and grid system). A navigation bar is displayed at the bottom of the page and will always be visible so users can easily navigate to other pages. 
 
 ![screenshot of mobile blogs list page wireframe](./docs/wireframe-images/mobile-blogs-list.png)  
 
 
-#### Mobile Blog Page and (Edit view)  
+### Mobile Blog Page and (Edit view)  
 
 * The layout of the blog page is similar to the blog list page in that the search bar is at the top and the heading is below that, and the navigation bar is at the bottom of the page. Details of the blog like username, title of blog, description, etc. are displayed near the top of the page to show the user more detailed information about the blog. As this is a travel blogging application, we wanted to make sure that the pictures took up a large portion of the screen, this improves the aesthetics of the application and user experience. Below the pictures are a couple of buttons and icons that allow the user edit the blog if the user created the blog. These functions include editing the pictures, liking the blog (any user can like a blog), edit post button (allows the user to edit details of the blog), and delete post button. Next is a comments section, where the user can view comments and add comments to the blog. The last section displays the location of the blog on google maps (using google maps API).  
 * The edit view of the blog page was initially created with all input boxes for all the data fields like title of post, location, and description. However, this was changed to have a edit post button to edit the details of the post, as there were multiple data points for location details (i.e. city, country, name of location, etc.) to edit. Once, the user clicks on the edit post button the user is redirected to an update post page to edit the details. 
@@ -183,7 +183,7 @@ A mobile first approach was implemented when designing the wireframes for this a
 ![screenshot of mobile blog page and edit view wireframe](./docs/wireframe-images/mobile-blogpages.png)  
 
 
-#### Mobile Location and Username Blog Pages  
+### Mobile Location and Username Blog Pages  
 
 * These two pages have the same layout as the blog list page. They are the pages that will be rendered when a user searches for blogs in a specific location or username.
 
@@ -191,14 +191,14 @@ A mobile first approach was implemented when designing the wireframes for this a
 
 
 
-#### Mobile User Profile and Edit view Pages  
+### Mobile User Profile and Edit view Pages  
 
 * This is the user profile page, I placed the profile image at the top of the page followed by username as a heading to indicate to the user that they are in their profile page. Below that will be a section containing all the information stored for the user. In the edit view mode a form will appear to allow changes to be made to the profile. All elements in the form will be evenly spaced.
 
 ![screenshot of mobile user profile and edit view pages wireframe](./docs/wireframe-images/mobile-userprofile.png)  
 
 
-#### Mobile User Dashboard Page  
+### Mobile User Dashboard Page  
 
 * The layout of the dashboard in similar to the blog list page, but there are different sections on the dashboard. Depending on the user's preferences in their profile (i.e. locaitons of interest, followed users), blogs will be listed in each section respectively. I placed arrow buttons on the side of the blog cards so that users can load the next set of blogs related to that section.
 
@@ -206,7 +206,7 @@ A mobile first approach was implemented when designing the wireframes for this a
 ![screenshot of mobile user dashboard page wireframe](./docs/wireframe-images/mobile-dashboard.png)  
 
 
-#### Mobile Create and Edit Post Pages
+### Mobile Create and Edit Post Pages
 
 * The create and edit post pages are essentially the same. They both have simple form layout.
 
@@ -214,7 +214,7 @@ A mobile first approach was implemented when designing the wireframes for this a
 ![screenshot of mobile create and edit post pages wireframes](./docs/wireframe-images/mobile-create-edit-post.png)  
 
 
-#### Tablet Application Pages  
+### Tablet Application Pages  
 
 Link to Travelling Diary wireframe in Figma: [Travelling Diary wireframe](https://www.figma.com/file/2SzEZyh3gIW4xpwTy1KAYM/Traveling-Diary?type=design&node-id=0-1&mode=design&t=jx4ebmZ2z4hPXJbJ-0).  
 
@@ -226,7 +226,7 @@ Link to Travelling Diary wireframe in Figma: [Travelling Diary wireframe](https:
 
 ![screenshot of tablet pages (user profile, dashboard, create and edit post) wireframes](./docs/wireframe-images/tablet-pages3.png)  
 
-#### Desktop Application Pages  
+### Desktop Application Pages  
 
 Link to Travelling Diary wireframe in Figma: [Travelling Diary wireframe](https://www.figma.com/file/2SzEZyh3gIW4xpwTy1KAYM/Traveling-Diary?type=design&node-id=0-1&mode=design&t=jx4ebmZ2z4hPXJbJ-0).  
 
