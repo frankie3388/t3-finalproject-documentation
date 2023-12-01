@@ -240,6 +240,15 @@ Link to Travelling Diary wireframe in Figma: [Travelling Diary wireframe](https:
 
 ![screenshot of desktop pages (dashboard, create and edit post) wireframes](./docs/wireframe-images/desktop-pages4.png)
 
+
+### Wireframe Relationship Diagram  
+
+The picture below shows how each page in the application will link together. The link to the figma wireframes can be found here for a more detailed view. 
+[Travelling Diary wireframe](https://www.figma.com/file/2SzEZyh3gIW4xpwTy1KAYM/Traveling-Diary?type=design&node-id=0-1&mode=design&t=jx4ebmZ2z4hPXJbJ-0).  
+
+
+![screenshot of the relationships between each page of the wireframes](./docs/wireframe-images/wireframe-relationship-diagram.png)  
+
 *************
 
 ## Technologies Used
