@@ -37,6 +37,12 @@ This application is targeting Young adults up to Parents with different reasons 
 
 7‌. As a developer, I want to implement a secure authentication system to protect user accounts and sensitive data.
 
+8. A a User, I want to be able to upload my own pictures to my blog posts to show others my perspective and experience to others.
+
+9. As a User I want to be able to comment/like posts to share my feedback and thoughts on others posts.
+
+10. As a User I want my unique travel experiences off the beaten path to be easily located through accurate location data presented to the user in my blog post. 
+
 ### Iterated Personas of Target Users
 
 **Persona 1: Adventurous Alan**
@@ -110,7 +116,7 @@ Once the Admin has been provided with credentials that grant them permissions an
 ****************
 ### Planning (Sprints)
 
-At the beginning of the project we had a briefing to delegate tasks and design a rough idea of how the app works. We then used Trello as a workload planner to organise and prioritise taks. We were responsible for ensuring that we completed appointed tasks in a timely manner and ensured we added notes to encourage communication during our regular meetings. We will hold regular status meetings through discord to communicate any issues and challenges we encounter during this project. 
+At the beginning of the project we had a briefing to delegate tasks and design a rough idea of how the app works. We then used Trello as a workload planner to organise and prioritise taks. We were responsible for ensuring that we completed appointed tasks in a timely manner and ensured we added notes to encourage communication during our regular meetings. We will hold regular status meetings through Discord to communicate any issues and challenges we encounter during this project. 
 
 With planning initially we plan to have the sprint organised in weekly sprints 
 
@@ -129,11 +135,15 @@ With planning initially we plan to have the sprint organised in weekly sprints
 - Front end cleaning up and testing for responsiveness
 - Final touches before launch
 
-Currently we have the Trello Screenshots for plannaing stage of MERN stack web application (see below)
+Currently we have the Trello Screenshots for planning stage of MERN stack web application (see below)
 
-<img src="wk2.png" alt="Beginning Trello" />
+https://trello.com/invite/b/PnIWK1TU/ATTI01370199b169157d04db53a1b07ebc7fE4DEB51B/t3a2-full-stack-app
 
-<img src="wk 3.jpg" alt="Ending Trello" />
+<img src="/docs/trello-board/wk1.png" alt="Beginning Trello" />
+
+<img src="/docs/trello-board/wk2.jpg" alt="Middle Trello" />
+
+<img src="/docs/trello-board/wk3.jpg" alt="Ending Planning - Beginning Coding Trello" />
 
 ***************
 
@@ -143,13 +153,13 @@ We decided to work as a team within a Github Organisation and utlise forking to 
 
 ### Dataflow Diagram
 
-<img src="Data-Flow-Diagram.jpg" alt="Data Flow Diagram" />
+<img src="/docs/dataflow-diagram/dataflow-diagram.png" alt="Data Flow Diagram" />
 
 ****************
 
 ### Application Architecture Diagram
 
-<img src="Application-Architecture-Diagram.jpg" alt="alt text" title="Application Architecture Diagram" />
+<img src="/docs/application-architecture-diagram/Application-Architecture-Diagram.jpg" alt="alt text" title="Application Architecture Diagram" />
 
 ****************
 
