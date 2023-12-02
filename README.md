@@ -37,11 +37,11 @@ This application is targeting Young adults up to Parents with different reasons 
 
 7‌. As a developer, I want to implement a secure authentication system to protect user accounts and sensitive data.
 
-8. A a User, I want to be able to upload my own pictures to my blog posts to show others my perspective and experience to others.
+8. As a user, I want to be able to upload my own pictures to my blog posts to show others my perspective and experience to others.
 
-9. As a User I want to be able to comment/like posts to share my feedback and thoughts on others posts.
+9. As a user, I want to be able to comment/like posts to share my feedback and thoughts on others posts.
 
-10. As a User I want my unique travel experiences off the beaten path to be easily located through accurate location data presented to the user in my blog post. 
+10. As a user, I want my unique travel experiences off the beaten path to be easily located through accurate location data presented to the user in my blog post. 
 
 ### Iterated Personas of Target Users
 
