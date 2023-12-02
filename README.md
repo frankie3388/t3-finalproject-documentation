@@ -129,7 +129,7 @@ With planning initially we plan to have the sprint organised in weekly sprints
 - Front end cleaning up and testing for responsiveness
 - Final touches before launch
 
-Currently we have the Trello Screenshots for plannaing stage of MERN stack web application (see below)
+Currently we have the Trello Screenshots for planning stage of MERN stack web application (see below). We a simple Kanban board to plan out our tasks, which were split into four section. Planning phase, In progress phase, review phase and completed task phase. The planning phase was where we assigned tasks to each other and set priorities and due dates to each task. Once we start to work on those tasks the task was moved to the 'in progress' section. After completing the task we would review the task (move task to review) and then if it there were no changes to be made we would move that task to 'completed tasks' section. This methodology allowed us to keep track of our progress on the project.
 
 <img src="wk2.png" alt="Beginning Trello" />
 
@@ -143,7 +143,7 @@ We decided to work as a team within a Github Organisation and utlise forking to 
 
 ### Dataflow Diagram
 
-<img src="Data-Flow-Diagram.jpg" alt="Data Flow Diagram" />
+![screenshot of Dataflow Diagram](./docs/dataflow-diagram/dataflow-diagram-revised.png)  
 
 ****************
 
@@ -248,6 +248,13 @@ The picture below shows how each page in the application will link together. The
 
 
 ![screenshot of the relationships between each page of the wireframes](./docs/wireframe-images/wireframe-relationship-diagram.png)  
+
+![screenshot of the relationships between each page of the wireframes (part 1 of 3)](./docs/wireframe-images/wireframe2.png)  
+
+![screenshot of the relationships between each page of the wireframes (part 2 of 3)](./docs/wireframe-images/wireframe3.png)  
+
+![screenshot of the relationships between each page of the wireframes (part 3 of 3)](./docs/wireframe-images/wireframe4.png)  
+
 
 *************
 
