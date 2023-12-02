@@ -116,7 +116,7 @@ Once the Admin has been provided with credentials that grant them permissions an
 ****************
 ### Planning (Sprints)
 
-At the beginning of the project we had a briefing to delegate tasks and design a rough idea of how the app works. We then used Trello as a workload planner to organise and prioritise taks. We were responsible for ensuring that we completed appointed tasks in a timely manner and ensured we added notes to encourage communication during our regular meetings. We will hold regular status meetings through discord to communicate any issues and challenges we encounter during this project. 
+At the beginning of the project we had a briefing to delegate tasks and design a rough idea of how the app works. We then used Trello as a workload planner to organise and prioritise taks. We were responsible for ensuring that we completed appointed tasks in a timely manner and ensured we added notes to encourage communication during our regular meetings. We will hold regular status meetings through Discord to communicate any issues and challenges we encounter during this project. 
 
 With planning initially we plan to have the sprint organised in weekly sprints 
 
@@ -137,9 +137,15 @@ With planning initially we plan to have the sprint organised in weekly sprints
 
 Currently we have the Trello Screenshots for planning stage of MERN stack web application (see below). We created a simple Kanban board to plan out our tasks, which were split into four section. Planning phase, In progress phase, review phase and completed task phase. The planning phase was where we assigned tasks to each other and set priorities and due dates to each task. Once we start to work on those tasks the task was moved to the 'in progress' section. After completing the task we would review the task (move task to review) and then if it there were no changes to be made we would move that task to 'completed tasks' section. This methodology allowed us to keep track of our progress on the project.
 
-<img src="wk2.png" alt="Beginning Trello" />
+<img src="/docs/trello-board/wk1.png" alt="Beginning Trello" />
 
-<img src="wk 3.jpg" alt="Ending Trello" />
+<img src="/docs/trello-board/wk2.jpg" alt="Middle Trello" />
+
+<img src="/docs/trello-board/wk3.jpg" alt="Ending Planning - Beginning Coding Trello" />
+
+**Below is a Link to Trello Board**
+
+https://trello.com/invite/b/PnIWK1TU/ATTI01370199b169157d04db53a1b07ebc7fE4DEB51B/t3a2-full-stack-app
 
 ***************
 
@@ -155,7 +161,7 @@ We decided to work as a team within a Github Organisation and utlise forking to 
 
 ### Application Architecture Diagram
 
-<img src="Application-Architecture-Diagram.jpg" alt="alt text" title="Application Architecture Diagram" />
+<img src="/docs/application-architecture-diagram/Application-Architecture-Diagram.jpg" alt="alt text" title="Application Architecture Diagram" />
 
 ****************
 
