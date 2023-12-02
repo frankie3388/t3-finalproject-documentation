@@ -37,6 +37,12 @@ This application is targeting Young adults up to Parents with different reasons 
 
 7‌. As a developer, I want to implement a secure authentication system to protect user accounts and sensitive data.
 
+8. A a User, I want to be able to upload my own pictures to my blog posts to show others my perspective and experience to others.
+
+9. As a User I want to be able to comment/like posts to share my feedback and thoughts on others posts.
+
+10. As a User I want my unique travel experiences off the beaten path to be easily located through accurate location data presented to the user in my blog post. 
+
 ### Iterated Personas of Target Users
 
 **Persona 1: Adventurous Alan**
@@ -129,7 +135,7 @@ With planning initially we plan to have the sprint organised in weekly sprints
 - Front end cleaning up and testing for responsiveness
 - Final touches before launch
 
-Currently we have the Trello Screenshots for planning stage of MERN stack web application (see below). We a simple Kanban board to plan out our tasks, which were split into four section. Planning phase, In progress phase, review phase and completed task phase. The planning phase was where we assigned tasks to each other and set priorities and due dates to each task. Once we start to work on those tasks the task was moved to the 'in progress' section. After completing the task we would review the task (move task to review) and then if it there were no changes to be made we would move that task to 'completed tasks' section. This methodology allowed us to keep track of our progress on the project.
+Currently we have the Trello Screenshots for planning stage of MERN stack web application (see below). We created a simple Kanban board to plan out our tasks, which were split into four section. Planning phase, In progress phase, review phase and completed task phase. The planning phase was where we assigned tasks to each other and set priorities and due dates to each task. Once we start to work on those tasks the task was moved to the 'in progress' section. After completing the task we would review the task (move task to review) and then if it there were no changes to be made we would move that task to 'completed tasks' section. This methodology allowed us to keep track of our progress on the project.
 
 <img src="wk2.png" alt="Beginning Trello" />
 
