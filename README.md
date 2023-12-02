@@ -37,11 +37,11 @@ This application is targeting Young adults up to Parents with different reasons 
 
 7‌. As a developer, I want to implement a secure authentication system to protect user accounts and sensitive data.
 
-8. A a User, I want to be able to upload my own pictures to my blog posts to show others my perspective and experience to others.
+8. As a user, I want to be able to upload my own pictures to my blog posts to show others my perspective and experience to others.
 
-9. As a User I want to be able to comment/like posts to share my feedback and thoughts on others posts.
+9. As a user, I want to be able to comment/like posts to share my feedback and thoughts on others posts.
 
-10. As a User I want my unique travel experiences off the beaten path to be easily located through accurate location data presented to the user in my blog post. 
+10. As a user, I want my unique travel experiences off the beaten path to be easily located through accurate location data presented to the user in my blog post. 
 
 ### Iterated Personas of Target Users
 
@@ -251,6 +251,22 @@ Link to Travelling Diary wireframe in Figma: [Travelling Diary wireframe](https:
 ![screenshot of desktop pages (username, user profile) wireframes](./docs/wireframe-images/desktop-pages3.png)  
 
 ![screenshot of desktop pages (dashboard, create and edit post) wireframes](./docs/wireframe-images/desktop-pages4.png)
+
+
+### Wireframe Relationship Diagram  
+
+The picture below shows how each page in the application will link together. The link to the figma wireframes can be found here for a more detailed view. 
+[Travelling Diary wireframe](https://www.figma.com/file/2SzEZyh3gIW4xpwTy1KAYM/Traveling-Diary?type=design&node-id=0-1&mode=design&t=jx4ebmZ2z4hPXJbJ-0).  
+
+
+![screenshot of the relationships between each page of the wireframes](./docs/wireframe-images/wireframe-relationship-diagram.png)  
+
+![screenshot of the relationships between each page of the wireframes (part 1 of 3)](./docs/wireframe-images/wireframe2.png)  
+
+![screenshot of the relationships between each page of the wireframes (part 2 of 3)](./docs/wireframe-images/wireframe3.png)  
+
+![screenshot of the relationships between each page of the wireframes (part 3 of 3)](./docs/wireframe-images/wireframe4.png)  
+
 
 *************
 
