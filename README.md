@@ -141,7 +141,7 @@ Currently we have the Trello Screenshots for planning stage of MERN stack web ap
 
 <img src="/docs/trello-board/wk2.jpg" alt="Middle Trello" />
 
-<img src="/docs/trello-board/wk3.jpg" alt="Ending Planning - Beginning Coding Trello" />
+<img src="/docs/trello-board/wk3.png" alt="Ending Planning - Beginning Coding Trello" />
 
 **Below is a Link to Trello Board**
 
