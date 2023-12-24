@@ -284,12 +284,26 @@ The picture below shows how each page in the application will link together. The
 
 
 
-Part B portion of Readme.
+# Part B portion of Readme.
 
 # **Patrick Apilukpuvadol and Francis Lam T3A2 - Part B submission on Canvas**
 ********************************
 ## **Travelling Diary: MERN full-stack app assignment**
 *****************************************
+
+### Repositories
+
+#### Frontend
+
+https://github.com/TravellingDiary/t3-finalproject-frontent
+
+#### Backend
+
+https://github.com/TravellingDiary/t3-finalproject-backend
+
+#### Part A
+
+https://github.com/TravellingDiary/t3-finalproject
 
 ### Deployments
 
