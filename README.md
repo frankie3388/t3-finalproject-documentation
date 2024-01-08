@@ -1,3 +1,29 @@
+### Repositories
+
+#### Frontend
+
+https://github.com/frankie3388/t3-finalproject-frontend
+
+#### Backend
+
+https://github.com/frankie3388/t3-finalproject-backend1
+
+#### Part A
+
+https://github.com/frankie3388/t3-finalproject-documentation
+
+### Deployments - Website and API
+
+#### Netlify
+
+https://dulcet-unicorn-920c44.netlify.app/
+
+#### Heroku
+
+https://forked-travelling-diary-a7e4a987a53d.herokuapp.com/  
+
+*************************
+
 # **Patrick Apilukpuvadol and Francis Lam T3A1**
 ********************************
 ## **Travelling Diary: MERN full-stack app assignment**
@@ -295,25 +321,25 @@ The picture below shows how each page in the application will link together. The
 
 #### Frontend
 
-https://github.com/TravellingDiary/t3-finalproject-frontent
+https://github.com/frankie3388/t3-finalproject-frontend
 
 #### Backend
 
-https://github.com/TravellingDiary/t3-finalproject-backend
+https://github.com/frankie3388/t3-finalproject-backend1
 
 #### Part A
 
-https://github.com/TravellingDiary/t3-finalproject
+https://github.com/frankie3388/t3-finalproject-documentation
 
 ### Deployments
 
 #### Netlify
 
-https://beamish-narwhal-32cb29.netlify.app/
+https://dulcet-unicorn-920c44.netlify.app/
 
 #### Heroku
 
-https://travelling-diary-app-e5215403a509.herokuapp.com/
+https://forked-travelling-diary-a7e4a987a53d.herokuapp.com/
 
 ### Manual Testing Google Sheet link 
 
